@@ -36,8 +36,6 @@ env/
 
 # Data files
 data/*.csv
-data/*.faiss
-data/*.pkl
 !data/.gitkeep
 
 # Logs
